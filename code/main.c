@@ -4,7 +4,7 @@
 #include <math.h>
 
 #include "sphere.h"
-#include "Ray.h"
+#include "ray.h"
 #include "scene.h"
 
 #define WINDOW_WIDTH (960)

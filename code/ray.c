@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "Ray.h"
+#include "ray.h"
 #include "vector.h"
 
 void ray_direction_vector(Vector *output, Ray *ray){
