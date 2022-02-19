@@ -1,5 +1,5 @@
 # RayTracing
-simple raytracing project written in c.
+Simple raytracing project written in c.
 <br />
 <br />
 [dependencies](https://www.libsdl.org/download-2.0.php)
